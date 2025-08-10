@@ -21,6 +21,14 @@ Este projeto visa estimular a aplicação de atividades com a epilinguagem e o d
 - Doutorado-sanduíche na Universidade de Coimbra (Portugal)
 - Professor do Ensino Básico, Técnico e Tecnológico de Língua Portuguesa e Literaturas no IFES
 
+## 💻 Desenvolvimento
+
+### **Samuel Muzy Fernandes**
+- **Desenvolvedor Full Stack**
+- **Responsável por**: Programação, design e implementação do site
+- **Tecnologias**: HTML5, CSS3, JavaScript
+- **Portfolio**: [portfolio-five-psi-nyiloyulur.vercel.app](https://portfolio-five-psi-nyiloyulur.vercel.app/)
+
 ## 🌟 Características do Projeto
 
 - **🎓 Educacional**: Foco no desenvolvimento de práticas dialógicas
@@ -103,22 +111,28 @@ Criatividade-dialogicas/
 
 ## 📱 Acesso ao Projeto
 
-**🌐 Link do Projeto**: [https://samuelmuzy.github.io/Criatividade-dial-gicas/](https://samuelmuzy.github.io/Criatividade-dial-gicas/)
+**🌐 Link do Projeto**: [https://samuelmuzy.github.io/Criatividade-dialogicas/](https://criatividadedialogicaa.github.io/Criatividadedialogica/index.html)
 
 ## 📧 Contato
 
 Para dúvidas, sugestões ou colaborações:
+### **💻 Desenvolvimento e Suporte Técnico**
+- **👨‍💻 Desenvolvedor**: Samuel Muzy Fernandes
+- **📧 Contato Técnico**: [Portfolio](https://portfolio-five-psi-nyiloyulur.vercel.app/)
+
+- **👩‍🏫Professora** Claudia Rodrigues Muzy Fernandes
 - **📧 Email**: claudiamuzy@gmail.com
 - **📱 Instagram**: [@claudiamuzy2021](https://www.instagram.com/claudiamuzy2021/)
 - **📘 Facebook**: [Claudia Rodrigues Muzy Fernandes](https://www.facebook.com/claudia.rodriguesmuzyfernandes)
 - **🎧 Spotify**: [Podcast da Claudia](https://open.spotify.com/show/3XS2YpdyxJepp1uchK2nWR?si=AaGDQTd-TJqRi4_aApYYJw&nd=1&dlsi=cd945a7f5d904057)
+
 
 ## 🎓 Contexto Acadêmico
 
 Este projeto é resultado de pesquisa acadêmica rigorosa no âmbito do Mestrado Profissional em Letras (PROFLETRAS), programa que visa qualificar professores da educação básica para o ensino de Língua Portuguesa.
 
 ### **Instituição**
-- **IFES - Instituto Federal do Espírito Santo**
+- **IFES - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo**
 - **Campus**: Vitória
 - **Programa**: PROFLETRAS (Mestrado Profissional em Letras)
 - **Período**: 2022-2024
@@ -137,6 +151,7 @@ Este projeto é resultado de pesquisa acadêmica rigorosa no âmbito do Mestrado
 - **PROFLETRAS**: Pela oportunidade de formação
 - **Comunidade Acadêmica**: Pelas contribuições e feedback
 - **Estudantes**: Pela participação e validação das práticas
+- **Samuel Muzy Fernandes**: Pelo desenvolvimento técnico e implementação do site
 
 ---
 
@@ -151,3 +166,5 @@ Este projeto representa uma inovação no campo da educação, integrando:
 ---
 
 *Desenvolvido com ❤️ para transformar a educação através da criatividade e tecnologia*
+
+**💻 Site desenvolvido por Samuel Muzy Fernandes**
