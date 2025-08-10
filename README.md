@@ -7,6 +7,10 @@
 ### 🎯 Objetivo
 Este projeto visa estimular a aplicação de atividades com a epilinguagem e o desenvolvimento de práticas dialógicas no Ensino Fundamental II através do uso de podcasts como ferramenta pedagógica.
 
+## 📱 Acesso ao Projeto
+
+**🌐 Link do Projeto**: [https://samuelmuzy.github.io/Criatividade-dialogicas/](https://criatividadedialogicaa.github.io/Criatividadedialogica/index.html)
+
 ## 👩‍🏫 Autores
 
 ### **Claudia Rodrigues Muzy Fernandes**
@@ -108,10 +112,6 @@ Criatividade-dialogicas/
 2. Pratique as atividades propostas
 3. Utilize o tutorial para criar seus próprios podcasts
 4. Desenvolva habilidades de comunicação e criatividade
-
-## 📱 Acesso ao Projeto
-
-**🌐 Link do Projeto**: [https://samuelmuzy.github.io/Criatividade-dialogicas/](https://criatividadedialogicaa.github.io/Criatividadedialogica/index.html)
 
 ## 📧 Contato
 
